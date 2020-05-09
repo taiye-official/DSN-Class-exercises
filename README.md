@@ -1,2 +1,2 @@
 # DSN-Class-exercises
-My Classnotes from DSN
+My Classnotes and practice from DSN classes
